@@ -1,4 +1,5 @@
 /domain/target/
+/domain-api/target/
 /web/target/
 /repository/target/
 .idea
